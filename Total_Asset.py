@@ -7,3 +7,4 @@ Total = Lucas + Joey
 
 #Output
 print(Total)
+lololol
