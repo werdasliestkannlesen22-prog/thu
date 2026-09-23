@@ -4,7 +4,7 @@
 # Job experience 
 ## AStA Universität Münster
 - Chairman (07.2025 - 09.2027)
-- social speaker (06.2024 - 07.2025)
+- speaker for social and housing affairs (06.2024 - 07.2025)
 
 
 # Education 
