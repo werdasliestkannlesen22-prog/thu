@@ -9,7 +9,7 @@
 
 # Education 
 - Tungahi University
-- University of Münster (economics)
+- University of Münster (Economics B.Sc.)
 
 
 # Computer Skills
