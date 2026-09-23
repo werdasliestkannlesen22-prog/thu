@@ -1,10 +1,10 @@
 # Laurenz Schulz
-activist and economist 
+ economist 
 
 # Job experience 
 ## AStA Universität Münster
-- Vorsitz (07.2025 - 09.2027)
-- Sozial Referat 
+- Chairman (07.2025 - 09.2027)
+- social speaker
 
 
 # Education 
@@ -15,7 +15,6 @@ activist and economist
 # Computer Skills
 - R
 - LaTeX
-- Python
 
 # Honors
 - Mofa Scholarship
