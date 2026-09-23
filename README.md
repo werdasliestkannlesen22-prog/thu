@@ -1,16 +1,23 @@
 # Laurenz Schulz
-best economist 
+activist and economist 
 
 # Job experience 
-## none
-maybe a bit
+## AStA Universität Münster
+- Vorsitz (07.2025 - 09.2027)
+- Sozial Referat 
 
-## very none
-just kidding im a Hartzer 
 
 # Education 
-- Tungahi University 
+- Tungahi University
+- University of Münster (economics)
 
 
 # Computer Skills
-none
+- R
+- LaTeX
+- Python
+
+# Honors
+- Mofa Scholarship
+- FES Scholarship 
+
