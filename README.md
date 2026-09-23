@@ -2,13 +2,13 @@
  economic student 
 
 # Job experience 
-## AStA Universität Münster
+## General Students Committee University of Münster
 - Chairman (07.2025 - 09.2027)
 - speaker for social and housing affairs (06.2024 - 07.2025)
 
 
 # Education 
-- Tungahi University
+- Tungahi University (Semester abraod) 
 - University of Münster (Economics B.Sc.)
 
 
