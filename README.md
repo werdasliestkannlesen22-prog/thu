@@ -22,3 +22,4 @@
 
 # others 
 - i like cheese
+- i hate Lakritze 
