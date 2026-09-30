@@ -10,3 +10,4 @@ print(Total)
 lololol
 67 
 420
+69
